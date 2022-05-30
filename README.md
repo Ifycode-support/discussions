@@ -1,1 +1,1 @@
-# Support discussions
+# Discussions
