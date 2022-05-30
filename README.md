@@ -1,1 +1,1 @@
-# exercism-support
+# Support discussions
